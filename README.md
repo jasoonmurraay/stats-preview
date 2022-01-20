@@ -1,2 +1,3 @@
 # stats-preview
-Third Frontend Mentor Project! (UNFINISHED AS OF 1/19 AFTERNOON)
+Third Frontend Mentor Project! 
+Only using html and css
